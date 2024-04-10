@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to bit-brick's documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -20,7 +20,8 @@ Contents
 
    usage
    api
-   
+   introduction/ReadtheDocs
+
 .. toctree::
    :maxdepth: 1
    :caption: 使用托管文档
