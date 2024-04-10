@@ -26,9 +26,9 @@ source_suffix = ['.rst', '.md']
 
 # -- Project information -----------------------------------------------------
 
-project = "Leeks' Notes"
-copyright = '2022, Leeks'
-author = 'Leeks'
+project = "Bit-Brick"
+copyright = '2024, Bit-Brick'
+author = 'Bit-Brick'
 
 # The full version, including alpha/beta/rc tags
 release = ""

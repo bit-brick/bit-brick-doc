@@ -20,7 +20,6 @@ Contents
 
    usage
    api
-   introduction/ReadtheDocs
 
 .. toctree::
    :maxdepth: 1
