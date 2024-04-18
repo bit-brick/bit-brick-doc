@@ -9,5 +9,3 @@ imx8mp
    ubuntu
 
 
-
-   
