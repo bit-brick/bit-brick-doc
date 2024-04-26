@@ -79,8 +79,8 @@ todo_include_todos = False
 #
 # html_theme = 'alabaster'
 # html_theme = "sphinx_material"
-# html_theme = "sphinx_book_theme"
-html_theme = "furo"
+html_theme = "sphinx_book_theme"
+# html_theme = "furo"
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 

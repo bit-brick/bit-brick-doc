@@ -62,7 +62,7 @@ project. Any name can be used instead of this.
 ~~~
 $ mkdir imx-yocto-bsp
 $ cd imx-yocto-bsp
-$ repo init -u https://github.com/nxp-imx/imx-manifest -b imx-linux-kirkstone -m imx-5.15.71-2.2.0.xml
+$ repo init -u https://github.com/nxp-imx/imx-manifest -b imx-linux-mickledore -m imx-6.1.22-2.0.0.xml
 $ repo sync
 ~~~
 

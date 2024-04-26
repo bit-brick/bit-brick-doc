@@ -94,6 +94,12 @@ PI series
 
    imx8mp/index
 
+.. toctree::
+   :maxdepth: 3
+   :caption: getting-started
+
+   getting-started/getting-started
+
 
 
 
